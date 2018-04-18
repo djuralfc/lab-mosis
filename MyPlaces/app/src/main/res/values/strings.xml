@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Places</string>
+    <string name="show_map">Show Map</string>
+    <string name="new_place">New Place</string>
+    <string name="my_places_list">My Places</string>
+    <string name="about">About</string>
+    <string name="ok">OK</string>
+    <string name="about_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla
+        risus, accumsan sit amet egestas ut, sagittis vestibulum nisl. Mauris vehicula sed magna id
+        lobortis. Praesent et porta mi. In aliquet, turpis eget venenatis mattis, risus lorem auctor
+        magna, et dictum tortor nisl nec risus. Suspendisse potenti. In sed dui volutpat, ornare
+        lorem bibendum, varius ligula. Suspendisse dui est, egestas vel commodo id, suscipit at urna.
+    </string>
+    <string name="title_activity_my_places_list">MyPlacesList</string>
+</resources>
