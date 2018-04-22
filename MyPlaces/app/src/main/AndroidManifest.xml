@@ -22,7 +22,7 @@
         <activity
             android:name=".About"
             android:label="About"
-            android:theme="@style/Theme.AppCompat.Light.Dialog"></activity>
+            android:theme="@style/Theme.AppCompat.Light.Dialog" />
         <activity
             android:name=".MyPlacesList"
             android:label="@string/title_activity_my_places_list"
@@ -32,6 +32,10 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.djuralfc.myplaces.MainActivity" />
         </activity>
+        <activity
+            android:name=".EditMyPlaceActivity"
+            android:label="@string/title_activity_edit_my_place"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
