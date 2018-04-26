@@ -35,6 +35,10 @@
         <activity
             android:name=".EditMyPlaceActivity"
             android:label="@string/title_activity_edit_my_place"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ViewMyPlacesActivity"
+            android:label="@string/title_activity_view_my_places"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
